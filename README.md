@@ -1,5 +1,9 @@
 # CS536: Final Project
-## Name: Venkata Achyuth Kunchapu 
+Team Members:
+1. Venkata Achyuth Kunchapu (Implemented the YOLO v1)
+2. Sandeep Vangapandu ()
+3. Uday Mekala ()
+
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
 
