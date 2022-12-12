@@ -6,6 +6,7 @@
 -----------------------------------------------------------------------
 ## How to run ?
 
+Upload your kaggle.json file in order to run the .ipynb file 
 
 -----------------------------------------------------------------------
 
@@ -36,7 +37,9 @@ YOLO resizes input images to 448 x 448, runs a single convolutional network on t
 -----------------------------------------------------------------------
 ## References:
 
-
+1. https://www.youtube.com/watch?v=n9_XyCGr-MI (Implemented after understanding this lecture on YOLO v1)
+2. https://www.kaggle.com/code/burakkocak14/pytorch-yolov1-from-scratch
+3. https://github.com/JeffersonQin/yolo-v1-pytorch
 
 
 
