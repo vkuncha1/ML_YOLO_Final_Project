@@ -2,13 +2,17 @@
 Team Members:
 1. Venkata Achyuth Kunchapu (Implemented the YOLO v1)
 2. Sandeep Vangapandu (Researching and co-implemeted the YOLO v1)
-3. Uday Mekala ()
+3. Uday Mekala (Changes in Existing Architecture)
 
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
 
 -----------------------------------------------------------------------
 ## How to run ?
+
+In Paper Authors trained the model for 1 week.
+
+In our implementation, we ran our model from 40-100 epochs estimated time is 3 hrs, (Use GPU for faster execution)
 
 Upload your kaggle.json file in order to run the .ipynb file 
 This file needs a VOC dataset from the kaggle
