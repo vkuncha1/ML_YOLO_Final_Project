@@ -17,6 +17,8 @@ In our implementation, we ran our model from 40-100 epochs estimated time is 3 h
 Upload your kaggle.json file in order to run the .ipynb file 
 This file needs a VOC dataset from the kaggle
 
+After training the trained weight will be saved in same level as code in the directory. and to predict the images search for "LOAD_MODEL" and change the value to "True" from "False"
+
 -----------------------------------------------------------------------
 ## Description:
 
