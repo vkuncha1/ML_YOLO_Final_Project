@@ -8,6 +8,8 @@ Team Members:
 
 ## How to run ?
 
+Download YOLO.ipynb file and use google collab or Jupyter notebook for execution of code.
+
 In Paper Authors trained the model for 1 week.
 
 In our implementation, we ran our model from 40-100 epochs estimated time is 3 hrs, (Use GPU for faster execution)
