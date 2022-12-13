@@ -25,7 +25,7 @@ After training the trained weight will be saved in same level as code in the dir
 We have re-implemented the YOLO(v1) Architecture using VOC data set.
 YOLO resizes input images to 448 x 448, runs a single convolutional network on the input and The feed-forward process extracts convolutional features and regresses them into bounding box values and class probabilities
 
-Code includes calculation for Mean Average Precision(maP) for test and training dataset,
+Code includes calculation for Mean Average Precision(maP) for test and training dataset (For Slightly Modified YOLO v1),
 
 Train maP:
 
