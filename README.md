@@ -29,7 +29,7 @@ Code includes calculation for Mean Average Precision(maP) for test and training 
 
 Train maP:
 
-0.84
+0.89
 
 
 Test maP
