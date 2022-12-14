@@ -104,11 +104,11 @@ class VOCDataset(torch.utils.data.Dataset):
                 label_matrix[i, j, 20] = 1
 
                 # Box coordinates
-                box_coordinates = torch.tensor(
+                boundbox_coordinates = torch.tensor(
                     [x_cell, y_cell, width_cell, height_cell]
                 )
 
-                label_matrix[i, j, 21:25] = box_coordinates
+                label_matrix[i, j, 21:25] = boundbox_coordinates
 
                 # Set one hot encoding for class_label
                 label_matrix[i, j, class_label] = 1
