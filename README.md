@@ -1,7 +1,7 @@
 # CS536: Final Project
 Team Members:
 1. Venkata Achyuth Kunchapu (Implemented the YOLO v1)
-2. Sandeep Vangapandu (Researching and co-implemeted the YOLO v1)
+2. Sandeep Vangapandu (Researching and co-implemeted the YOLO v1, and Author of report)
 3. Uday Mekala (Changes in Existing Architecture and co-implemented the YOLO v1)
 
 -----------------------------------------------------------------------
